@@ -7,8 +7,24 @@
 - Don't be one of the leeches.
 - Either stand out or kicked out.
 
+---
+
 ## plans
 
 ### Day01~15 - Go 语言基础
 
 <b>descriptions: Great buildings start from the ground.</b>
+
+#### Day01 - [环境及基本规范](https://github.com/choly192/golang-100-days/blob/master/day01-15/day01_%E5%9F%BA%E5%BB%BA.md)
+
+#### Day02 - go [基本语法](https://github.com/choly192/golang-100-days/blob/master/day01-15/day02_%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95.md)
+
+#### Day03 - [字符串操作](https://github.com/choly192/golang-100-days/blob/master/day01-15/day03_%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%93%8D%E4%BD%9C.md)
+
+#### Day04 - [分支语句]()
+
+#### Day05 - 循环语句
+
+#### Day06 - 数组
+
+#### Day07 - 切片
