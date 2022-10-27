@@ -9,6 +9,12 @@
 
 ---
 
+## 学习文档地址
+
+[官网](https://golang.google.cn/doc/)
+[地鼠文档](https://topgoer.cn/docs/golang)
+[中文网](http://docscn.studygolang.com/doc/)
+
 ## plans
 
 ### Day01~15 - Go 语言基础
@@ -21,7 +27,7 @@
 
 #### Day03 - [字符串操作](https://github.com/choly192/golang-100-days/blob/master/day01-15/day03_%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%93%8D%E4%BD%9C.md)
 
-#### Day04 - [分支语句]()
+#### Day04 - [分支语句](https://github.com/choly192/golang-100-days/blob/master/day01-15/day04_%E5%88%86%E6%94%AF%E8%AF%AD%E5%8F%A5.md)
 
 #### Day05 - 循环语句
 
