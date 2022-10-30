@@ -29,8 +29,10 @@
 
 #### Day04 - [分支语句](https://github.com/choly192/golang-100-days/blob/master/day01-15/day04_%E5%88%86%E6%94%AF%E8%AF%AD%E5%8F%A5.md)
 
-#### Day05 - 循环语句
+#### Day05 - [循环语句](https://github.com/choly192/golang-100-days/blob/master/day01-15/day05_%E5%BE%AA%E7%8E%AF%E8%AF%AD%E5%8F%A5.md)
 
-#### Day06 - 数组
+#### Day06 - 指针类型
 
-#### Day07 - 切片
+#### Day07 - 数组
+
+#### Day08 - 切片
