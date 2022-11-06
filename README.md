@@ -31,8 +31,10 @@
 
 #### Day05 - [循环语句](https://github.com/choly192/golang-100-days/blob/master/day01-15/day05_%E5%BE%AA%E7%8E%AF%E8%AF%AD%E5%8F%A5.md)
 
-#### Day06 - 指针类型
+#### Day06 - [指针类型](https://github.com/choly192/golang-100-days/blob/master/day01-15/day06_%E6%8C%87%E9%92%88%E7%B1%BB%E5%9E%8B.md)
 
-#### Day07 - 数组
+#### Day07 - [数组](https://github.com/choly192/golang-100-days/blob/master/day01-15/day07_%E6%95%B0%E7%BB%84.md)
 
 #### Day08 - 切片
+
+### Day09 - 值类型与引用类型
