@@ -35,6 +35,12 @@
 
 #### Day07 - [数组](https://github.com/choly192/golang-100-days/blob/master/day01-15/day07_%E6%95%B0%E7%BB%84.md)
 
-#### Day08 - 切片
+#### Day08 - [切片](https://github.com/choly192/golang-100-days/blob/master/day01-15/day08_%E5%88%87%E7%89%87.md)
 
-### Day09 - 值类型与引用类型
+### Day09 - [值类型与引用类型](https://github.com/choly192/golang-100-days/blob/master/day01-15/day09_%E5%80%BC%E7%B1%BB%E5%9E%8B%E5%92%8C%E5%BC%95%E7%94%A8%E7%B1%BB%E5%9E%8B.md)
+
+### Day10 - map
+
+### Day11 - 结构体
+
+### Day12 - 函数
